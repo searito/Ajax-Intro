@@ -1,0 +1,16 @@
+{
+	"Searito":{
+		"nombre": "Sear",
+		"apellido": "Clímaco",
+		"edad": 25,
+		"salario": 0
+	},
+
+
+	"Marlene":{
+		"nombre": "Marlene",
+		"apellido": "Saravia",
+		"edad": 29,
+		"salario": 750
+	}
+}

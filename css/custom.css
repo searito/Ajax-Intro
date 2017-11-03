@@ -1,0 +1,12 @@
+.titularOne{
+	/*@import url('https://fonts.googleapis.com/css?family=Germania+One');*/
+	font-family: 'Germania One', cursive;
+}
+
+.centrar-contenido{
+	padding: 15px 20px;
+}
+
+.titular{
+	font-size: 30px;
+}

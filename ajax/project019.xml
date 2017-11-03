@@ -1,0 +1,58 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<Clientes>
+	<cliente>
+		<nombre>Sear</nombre>
+		<apellido>Clímaco</apellido>
+		<edad>26</edad>
+		<salario>3000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Marlyn</nombre>
+		<apellido>Álvarez</apellido>
+		<edad>25</edad>
+		<salario>2000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Sonia</nombre>
+		<apellido>Covarrubia</apellido>
+		<edad>28</edad>
+		<salario>3000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Diana</nombre>
+		<apellido>Calderón</apellido>
+		<edad>27</edad>
+		<salario>3000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Tabatha</nombre>
+		<apellido>Pacer</apellido>
+		<edad>22</edad>
+		<salario>3000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Raquel</nombre>
+		<apellido>Pérez</apellido>
+		<edad>28</edad>
+		<salario>3000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Roxana</nombre>
+		<apellido>Pancino</apellido>
+		<edad>29</edad>
+		<salario>3000</salario>
+	</cliente>
+
+	<cliente>
+		<nombre>Julieta</nombre>
+		<apellido>Prandy</apellido>
+		<edad>22</edad>
+		<salario>3000</salario>
+	</cliente>
+</Clientes>

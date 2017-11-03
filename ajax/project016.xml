@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<cliente>
+	<nombre>Sear</nombre>
+	<apellido>Clímaco</apellido>
+	<edad>26</edad>
+	<salario>3000</salario>
+</cliente>

@@ -1,0 +1,61 @@
+[
+	{
+		"nombre": "Searito",
+		"apellido": "Clímaco",
+		"edad": 26
+	},
+
+	{
+		"nombre": "Rosa",
+		"apellido": "Martínez",
+		"edad": 25
+	},
+
+	{
+		"nombre": "Juan",
+		"apellido": "Gamez",
+		"edad": 28
+	},
+
+	{
+		"nombre": "Luis",
+		"apellido": "Vasquez",
+		"edad": 29
+	},
+
+	{
+		"nombre": "Sandra",
+		"apellido": "Argueta",
+		"edad": 26
+	},
+
+	{
+		"nombre": "Nanetica",
+		"apellido": "Zelaya",
+		"edad": 27
+	},
+
+	{
+		"nombre": "Kenya",
+		"apellido": "Fuentes",
+		"edad": 20
+	},
+
+	{
+		"nombre": "Karen",
+		"apellido": "Zelaya",
+		"edad": 17
+	},
+
+	{
+		"nombre": "Reina",
+		"apellido": "Sanchez",
+		"edad": 19
+	},
+
+	{
+		"nombre": "Marcela",
+		"apellido": "Campos",
+		"edad": 21
+	}
+]
